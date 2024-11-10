@@ -1,8 +1,8 @@
 /*===============================
 Ref = https://www.linkedin.com/posts/excelbi_powerbi-powerquery-dax-activity-6967339867827503104-GDH8
 PQ proposal in 2 main-steps
-1) Transform each row by splitting LeaveDates by 2 and or each find days then count the combination of all distinct ones 
-2) Sort by [Employee]
+1) Transform each row in a inner-list with {original string, digits in it, sum of these digits}  
+2) Create result table with it 
 =================================*/
 
 SOLUTION 1 :   Get all digits (even if it appears several times in the string)
