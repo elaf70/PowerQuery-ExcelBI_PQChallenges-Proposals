@@ -1,5 +1,5 @@
 /*===============================
-Ref = https://www.linkedin.com/feed/update/urn:li:activity:7261226065468018690
+Ref =https://www.linkedin.com/posts/excelbi_challenge-powerquerychallenge-daxchallenge-activity-7261226065468018690-WMQv
 PQ proposal in 2 main-steps
 1) Transform each row by splitting LeaveDates by 2 and or each find days then count the combination of all distinct ones 
 2) Sort by [Employee]
