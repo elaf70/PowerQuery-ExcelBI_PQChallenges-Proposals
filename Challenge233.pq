@@ -1,11 +1,11 @@
-/*===============================
+/*================================
 Ref = https://www.linkedin.com/feed/update/urn:li:activity:7260888179526795264
 PQ proposal in 4 main steps
 1) Transform by rows to split values + add Status & Amount calcs
 2) Pivot [Fruit] into columns
 3) Sort : row by [Status] and columns by Fruit-names
 4) Add the 2 last column and Row for GranTotal 
-=================================*/
+==================================*/
 
 let
   Source = Excel.CurrentWorkbook(){[Name="tData233"]}[Content],
