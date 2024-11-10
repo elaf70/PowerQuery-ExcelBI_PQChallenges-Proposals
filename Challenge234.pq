@@ -1,5 +1,5 @@
 /*===============================
-Ref = https://www.linkedin.com/search/results/content/?keywords=%22power%20query%20challenge%20234%22
+Ref = https://www.linkedin.com/feed/update/urn:li:activity:7261226065468018690
 PQ proposal in 2 main-steps
 1) Transform each row by splitting LeaveDates by 2 and or each find days then count the combination of all distinct ones 
 2) Sort by [Employee]
