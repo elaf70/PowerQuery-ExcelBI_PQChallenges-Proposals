@@ -23,4 +23,3 @@ let
    Pivot = Table.Pivot(ChangeType, List.Distinct(ChangeType[Subject]), "Subject", "Mark")
 in
    Pivot
-

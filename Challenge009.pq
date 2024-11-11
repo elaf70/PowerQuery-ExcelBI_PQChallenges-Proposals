@@ -18,5 +18,3 @@ let
     Result = Table.FromColumns({NewText},{"Final Text"})
 in
     Result
-
-

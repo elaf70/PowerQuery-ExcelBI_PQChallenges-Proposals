@@ -17,4 +17,3 @@ let
     Filter = Table.SelectRows(ToRecord, each ([Column1] <> null))
 in
     Filter
-
