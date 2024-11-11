@@ -1,5 +1,5 @@
 /*================================
-Ref = https://www.linkedin.com/posts/excelbi_powerquerychallenge-daxchallenge-m-activity-7050678718565949440-CMI1
+Ref = https://www.linkedin.com/posts/excelbi_powerquerychallenge-daxchallenge-m-activity-7053215431163092992-ZyKk
 PQ proposal in 3 main steps
     1) Group
     2) Combine

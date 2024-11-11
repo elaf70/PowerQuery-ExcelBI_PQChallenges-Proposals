@@ -1,5 +1,5 @@
 /*================================
-Ref = https://www.linkedin.com/posts/excelbi_powerquerychallenge-daxchallenge-m-activity-7050678718565949440-CMI1
+Ref = https://www.linkedin.com/posts/excelbi_powerquerychallenge-daxchallenge-m-activity-7052853042966081536-ncdd
 PQ proposal in 2 main steps
     1) Group by [Machine] to create for each a Table for each Date+Start
     2) Expand
