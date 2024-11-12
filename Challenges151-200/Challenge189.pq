@@ -1,10 +1,13 @@
 /*================================
-Ref = 
-PQ proposal in 4 main steps
-1) ...
-2) ...
-3) ... 
-4) ...
+Ref = https://www.linkedin.com/posts/excelbi_challenge-powerquerychallenge-daxchallenge-activity-7205055956089544704-Nyjv
+
+PQ proposal in 1 main steps
 ==================================*/
-to_add...
+let
+    Source = Excel.CurrentWorkbook(){[Name="tData189"]}[Content],
+    Result = Table.AddColumn(Table.SelectRows(Source, each [Code] <> "Yes"), "Result",
+        each if (Source[Code]{[Seq]}?="Yes") then "Pass" else "Fail")
+in
+    Result
+
 
