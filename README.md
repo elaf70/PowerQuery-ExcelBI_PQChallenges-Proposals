@@ -1,5 +1,3 @@
-All my M-Code proposals for "POWER-QUERY Challenges" from EXCEL-BI  on LinkedIn :  
+All my M-Code proposals for "POWER-QUERY Challenges" of  EXCEL-BI on LINKEDIN  : https://www.linkedin.com/in/excelbi/
 
-https://www.linkedin.com/in/excelbi/
-
-+ EXCEL file with reference & links of all his challenges : https://1drv.ms/x/s!Akd5y6ruJhvhvjsDKLMvtQ7RVuqW?e=NWYAvM
+NB: References & links to all of his challenges = https://1drv.ms/x/s!Akd5y6ruJhvhvjsDKLMvtQ7RVuqW?e=NWYAvM
