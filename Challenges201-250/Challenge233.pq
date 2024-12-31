@@ -1,5 +1,6 @@
 /*================================
-Ref = https://www.linkedin.com/feed/update/urn:li:activity:7260888179526795264
+Ref = https://www.linkedin.com/posts/excelbi_challenge-powerquerychallenge-daxchallenge-activity-7260888179526795264-jFf-
+
 PQ proposal in 4 main steps
 1) Transform by rows to split values + add Status & Amount calcs
 2) Pivot [Fruit] into columns
