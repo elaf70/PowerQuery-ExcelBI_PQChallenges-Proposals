@@ -1,5 +1,5 @@
 /*================================
-Ref = https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7263400970531848192
+Ref = https://www.linkedin.com/posts/excelbi_challenge-powerquerychallenge-daxchallenge-activity-7263400970531848192-p0sY
 
 PQ proposal in 3 main steps 
     0) Prepare the complete global new column names
