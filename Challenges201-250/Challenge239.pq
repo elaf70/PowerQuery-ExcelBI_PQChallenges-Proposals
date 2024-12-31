@@ -1,5 +1,5 @@
 /*================================
-Ref = https://www.linkedin.com/posts/excelbi_challenge-powerquerychallenge-daxchallenge-activity-7268473832686977024-mLNf?utm_source=share&utm_medium=member_desktop
+Ref = https://www.linkedin.com/posts/excelbi_challenge-powerquerychallenge-daxchallenge-activity-7268473832686977024-mLNf
 
 PQ proposal in 3 main steps
 1) Get all Ranking Value disctinct & Sorted : for each rows = [Q4]-[Q1]
