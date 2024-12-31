@@ -1,6 +1,5 @@
 /*================================
-Ref = https://www.linkedin.com/feed/update/urn:li:activity:7263773289519456256
-
+Ref = https://www.linkedin.com/posts/excelbi_challenge-powerquerychallenge-daxchallenge-activity-7263773289519456256-U-8M
 PQ proposal in 3 main steps 
   1) Format date column in Text
   2) Group by [Hall] with unpivot other cols + add in it a 1st Row with the [Hall] description values   
