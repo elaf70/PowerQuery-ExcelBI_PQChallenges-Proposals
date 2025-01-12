@@ -1,5 +1,5 @@
 /*================================
-Ref = https://www.linkedin.com/feed/update/urn:li:activity:7283694165534593024/
+Ref = https://www.linkedin.com/posts/excelbi_challenge-powerquerychallenge-daxchallenge-activity-7283694165534593024-qabx
 
 PQ proposal in 3 main steps
   (1) Group by EmpID with unpivot to create 1 inner table for each
